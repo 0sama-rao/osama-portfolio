@@ -53,11 +53,6 @@
       "category": "Frontend"
     },
     {
-      "name": "JavaScript",
-      "image": "https://img.icons8.com/color/144/null/typescript--v1.png",
-      "category": "Frontend"
-    },
-    {
       "name": "React",
       "image": "https://img.icons8.com/plasticine/144/null/react.png",
       "category": "Frontend"
@@ -82,16 +77,7 @@
       "image": "https://img.icons8.com/color/144/null/bootstrap.png",
       "category": "Frontend"
     },
-    {
-      "name": "Chakra UI",
-      "image": "https://img.icons8.com/color/144/null/chakra-ui.png",
-      "category": "Frontend"
-    },
-    {
-      "name": "Framer Motion",
-      "image": "https://miro.medium.com/v2/resize:fit:624/format:webp/0*Z-jwqyt2k8NbHaQe.png",
-      "category": "Frontend"
-    },
+  
     {
       "name": "Material-UI (MUI)",
       "image": "https://img.icons8.com/color/144/null/material-ui.png",
@@ -128,7 +114,7 @@
       "category": "Backend"
     },
     {
-      "name": "SQL",
+      "name": "SQL SERVER",
       "image": "https://img.icons8.com/ios/144/null/sql.png",
       "category": "Database"
     },
@@ -140,11 +126,6 @@
     {
       "name": "MongoDB",
       "image": "https://img.icons8.com/color/144/null/mongodb.png",
-      "category": "Database"
-    },
-    {
-      "name": "PostgreSQL",
-      "image": "https://img.icons8.com/?size=50&id=36440&format=png",
       "category": "Database"
     },
     {
@@ -188,11 +169,6 @@
       "category": "DevOps"
     },
     {
-      "name": "Jenkins",
-      "image": "https://img.icons8.com/color/144/null/jenkins.png",
-      "category": "DevOps"
-    },
-    {
       "name": "Git",
       "image": "https://img.icons8.com/ios-filled/144/null/git.png",
       "category": "Tools"
@@ -210,11 +186,6 @@
     {
       "name": "VS Code",
       "image": "https://img.icons8.com/color/144/null/visual-studio-code-2019.png",
-      "category": "Tools"
-    },
-    {
-      "name": "IntelliJ IDEA",
-      "image": "https://img.icons8.com/color/144/null/intellij-idea.png",
       "category": "Tools"
     },
     {
@@ -242,11 +213,7 @@
       "image": "https://img.icons8.com/dusk/144/null/api-settings.png",
       "category": "APIs"
     },
-    {
-      "name": "GraphQL",
-      "image": "https://img.icons8.com/color/144/null/graphql.png",
-      "category": "APIs"
-    },
+  
     {
       "name": "API Validation",
       "image": "https://img.icons8.com/?size=48&id=22856&format=png",
@@ -299,7 +266,7 @@
     {
       "name": "E-Shop Application",
       "techstack": "ReactJs,Nodejs,ExpreesJS,MongoDB,MySQL,HTML,CSS,MUI",
-      "category": "MERN Stack",
+      "category": "Full Stack",
       "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1684320450/Screenshot_1_rtzyri.png",
       "links": {
         "code": "https://github.com/ImranYounas123/MERN-E_commerce",
@@ -310,7 +277,7 @@
     {
       "name": "burger Web Application",
       "techstack": "ReactJs,Nodejs,ExpreesJS,MongoDB,MySQL,HTML,CSS,MUI",
-      "category": "MERN Stack",
+      "category": "Full Stack",
       "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1690371999/Screenshot_11_pvqz73.png",
       "links": {
         "code": "https://github.com/ImranYounas123/MERN-E_commerce",
@@ -321,7 +288,7 @@
     {
       "name": "E-Madadar Application",
       "techstack": "ReactJs,Nodejs,ExpreesJS,MongoDB,MySQL,HTML,CSS,MUI",
-      "category": "MERN Stack",
+      "category": "Full Stack",
       "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1690372580/Screenshot_12_w1egsx.png",
       "links": {
         "code": "https://github.com/ImranYounas123/MERN-E_commerce",
@@ -330,12 +297,12 @@
       }
     },
     {
-      "name": "Real-Time Chat Application",
-      "techstack": "Nodejs,Socket IO, Express js MongoDB",
+      "name": "File Inspection",
+      "techstack": "NestJs, Express js,MySql, Sequelize",
       "category": "Backend",
-      "image": "data:image/jpeg;base64,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",
+    
       "links": {
-        "code": "sdss",
+        "code": "https://github.com/0sama-rao/fileInspection",
         "video": "sds",
         "visit": "dsd"
       }
@@ -355,65 +322,52 @@
 
   "educations": [
     {
-      "institute": "Sir Syed Secondary School",
-      "degree": "HSC Science",
-      "duration": "2014 - 2016"
+      "institute": "St.Jhon's Grammer School",
+      "degree": "Science",
+      "duration": "2013 - 2015"
+  
     },
+
     {
-      "institute": "Comprehensive Higher Secondary College",
+      "institute": "SM.Govt Science College",
       "degree": "PRE-Engineering",
-      "duration": "2016 - 2018",
-      "desc": [
-        "Studied PRE-Engineering curriculum with a focus on mathematics, physics, and other core engineering subjects.",
-        "Gained a strong foundation in scientific principles and problem-solving skills.",
-        "Participated in various extracurricular activities and developed teamwork and leadership abilities."
-      ]
+      "duration": "2015 - 2017"
+  
     },
     {
-      "institute": "Sir Syed University of Engineering & Technology",
-      "degree": "Software Engineering",
-      "duration": "2019 - 2023",
-      "desc": [
-        "I pursued a Bachelor's degree in Software Engineering from Sir Syed University of Engineering & Technology. During my academic journey, I gained a strong foundation in various programming languages, software development methodologies, and problem-solving skills. The curriculum also exposed me to cutting-edge technologies and allowed me to work on real-world projects, honing my abilities to create efficient and innovative solutions. Throughout my time at the university, I actively participated in coding competitions and workshops, fostering my passion for continuous learning and growth in the field of software engineering."
-      ]
+      "institute": "Bahria University",
+      "degree": "Bachelors of Science in Computer Science",
+      "duration": "2017 - 2021"
+   
     }
   ],
   "experiences": [
+   
     {
-      "company": "Desk Work Solutions",
-      "position": "React.js Intern",
-      "duration": "2019 - 2023",
-      "desc": [
-        "As a React.js intern at Desk Work Solutions, I worked on various projects, contributing to front-end development and gaining hands-on experience with React.js.",
-        "During my internship, I collaborated with a team of developers, participating in agile development processes and learning best practices for modern web development.",
-        "Skills: React.js, JavaScript, HTML, CSS, Git"
-      ]
-    },
-    {
-      "company": "MATZ Solutions PVT LTD",
-      "position": "Backend Developer",
-      "duration": "2022 - Present",
-      "desc": [
-        "As a Backend Developer at MATZ Solutions, I am responsible for designing, developing, and maintaining robust and scalable backend solutions.",
-        "My role involves working with Node.js, MySQL, and MongoDB to handle data processing and storage efficiently.",
-        "Additionally, I am actively involved in implementing FHIR (Fast Healthcare Interoperability Resources) standards for healthcare applications.",
-        "I also contribute to DevOps practices, ensuring seamless deployment and continuous integration for our projects.",
-        "With a passion for learning, I constantly explore and integrate new technologies to optimize performance and enhance user experiences.",
-        "Skills: Node.js, MySQL, MongoDB, FHIR, DevOps, REST APIs, Agile Methodologies, Software Architecture, Cloud Services, and more."
-      ]
+      "company": "AKD Investment Management LTD.",
+      "position": "Software Developer",
+      "duration": "01-22 - 06-23",
+     "desc": [
+    "As a Software Developer at AKD Investment Management LTD, I led new web development initiatives by gathering requirements from cross-functional business teams to launch projects effectively.",
+    "Managed and maintained financial data using SQL queries, procedures, indexes, and triggers to ensure data accuracy and reliability.",
+    "Developed scripts to facilitate data transfer from CSV files to databases, leveraging Python and pandas for data processing and pyodbc for database connectivity.",
+    "Implemented APIs with a RESTful architecture, enabling seamless integration with databases and third-party dashboards, including those of Infobip.",
+    "Played a critical role in prototyping new concepts and demonstrating proof of value through test environments and detailed application diagrams."
+]
+
     },
     {
       "company": "Cygnis Media",
-      "position": "Full Stack Engineer",
-      "duration": "2023 - 2024",
-      "desc": [
-        "As a Full Stack Engineer at Cygnis Media, I was deeply involved in developing and maintaining web applications using a comprehensive tech stack.",
-        "My responsibilities encompassed both front-end and back-end development tasks, where I extensively utilized technologies such as Next.js, React.js, Node.js, Express.js, MySQL, and Sequelize.",
-        "I actively participated in designing and implementing RESTful APIs, integrating databases, and ensuring the efficient processing and storage of data.",
-        "Moreover, I played a significant role in setting up and managing cron jobs and job queues for handling background tasks and scheduling.",
-        "Working within an agile framework, I collaborated closely with cross-functional teams to deliver high-quality solutions, meeting project objectives and timelines.",
-        "Skills: Next.js, React.js, Node.js, Express.js, MySQL, Sequelize, RESTful APIs, Cron Jobs, Job Queue, Front-end Development, Back-end Development, and more."
-      ]
+      "position": "Full Stack Developer",
+      "duration": "08-23 - 10-24",
+    "desc": [
+    "As a Full Stack Developer at Cygnis Media, I was responsible for developing and maintaining web applications using a comprehensive tech stack, including Next.js, Nest.js, React.js, Node.js, Express.js, MySQL, and Sequelize.",
+    "I designed and implemented REST APIs, optimized database performance, and managed Cron jobs and job queues to ensure seamless application functionality.",
+    "I integrated third-party payment solutions like Stripe and digital signature services such as DocuSign, as well as connected with CRM tools like HubSpot.",
+    "Collaboratively working within a team environment, I contributed to both solo and team projects, utilizing GitHub for efficient, large-scale project management.",
+    "Skilled in frontend (React.js, Next.js) and backend (Node.js, Express.js, Nest.js) technologies, I deployed SaaS products on cloud platforms such as AWS and Azure."
+]
+
     }    
   ],
   "testimonials": [

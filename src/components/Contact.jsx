@@ -7,7 +7,7 @@ import "react-toastify/dist/ReactToastify.min.css";
 import contact from "../assets/contact.png";
 const Contact = () => {
   const [values, setValues] = useState({
-    to_name : "Imran Younas",
+    to_name : "Muhammad Osama",
     from_name: "",
     email: "",
     message: "",
@@ -19,8 +19,8 @@ const Contact = () => {
     e.preventDefault(); 
     setLoading(true);
     emailjs
-      .sendForm("service_2pg0oyq", "template_b7e39ju", e.target, {
-        publicKey: "-8QmA8RK-Pr6IUJi3",
+      .sendForm("service_7931j0f", "template_0s2v0uj", e.target, {
+        publicKey: "nGn0b4uZWPq3-1R12",
       })
       .then(
         (result) => {

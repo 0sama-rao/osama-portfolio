@@ -16,7 +16,7 @@ const Experiences = ({ experienceData, educationData, testonomialData }) => {
       <h2 className="text-4xl text-center">Experience</h2>
 
       <div className="w-fit mx-auto mt-6 p-2 bg-white dark:bg-grey-800 rounded-md flex gap-2 items-center">
-        {["Experience", "Education", "Testimonial"].map((e, i) => (
+        {["Experience", "Education"].map((e, i) => (
           <button
             key={i}
             onClick={() => {
@@ -26,7 +26,7 @@ const Experiences = ({ experienceData, educationData, testonomialData }) => {
             className={`py-2 px-4 rounded-md transition-colors ${
               show === e
                 ? "bg-violet-600 text-white"
-                : "hover:bg-gray-100 hover:dark:bg-grey-900 text-black dark:text-white"
+                : "hover:bg-gray-300 hover:dark:bg-grey-9200 text-black dark:text-red"
             }`}
           >
             {e}
@@ -54,7 +54,7 @@ const Experiences = ({ experienceData, educationData, testonomialData }) => {
                 ? educations
                 : testonomials
               )
-                .slice(0, 2)
+                .slice(0, 1)
                 .map((e, i) => (
                   // @ts-ignore
                   <ExperienceCard key={i} {...e} index={i} />
@@ -67,7 +67,7 @@ const Experiences = ({ experienceData, educationData, testonomialData }) => {
         : show === "Education"
         ? educations
         : testonomials
-      ).length > 2 && (
+      ).length > 1 && (
         <ViewAll
           scrollTo="experience"
           title={viewAll ? "Okay, I got it" : "View All"}
