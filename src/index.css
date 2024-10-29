@@ -1,0 +1,37 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"); */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth !important;
+}
+
+.whatsapp-fixed {
+  position: fixed;
+  bottom: 20px;   /* Adjust the position from the bottom */
+  right: 20px;    /* Adjust the position from the right */
+  z-index: 1000;  /* Ensure it stays on top of other content */
+}
+/* body {
+  font-family: "Poppins", sans-serif;
+} */
+
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #6565656a;
+}
+
+.scroll-hide::-webkit-scrollbar {
+  display: none;
+}
