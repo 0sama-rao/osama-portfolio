@@ -5,7 +5,7 @@ import { IoIosArrowForward } from "react-icons/io";
 import wavingHand from "../assets/waving-hand.gif";
 import { useTheme } from "../Context/ThemeContext";
 import bgImage from "../assets/herobgc.jpg";
-import imranImage from "../assets/imran.jfif";
+import imranImage from "../assets/osama.jpg";
 
 const Hero = (mainData) => {
   const { theme } = useTheme();
@@ -55,7 +55,7 @@ const Hero = (mainData) => {
             />
           </div>
 
-          <p className="text-sm md:text-base text-gray-600 dark:text-gray-300">
+          <p className="text-sm md:text-base text-gray-600 dark:text-gray-500">
             {shortDesc}
           </p>
 

@@ -69,7 +69,7 @@ const Experience = ({
             <h3 className="mb-2 font-medium text-lg md:text-xl">
               {company || institute || testimonial}
             </h3>
-            <p className="text-sm text-gray-500 dark:text-gray-400 font-medium">
+            <p className="text-sm text-gray-500 dark:text-gray-500 font-medium">
               {position || degree} | {duration}
             </p>
             <ul className="text-sm text-gray-400 mt-2 ml-4 list-disc">

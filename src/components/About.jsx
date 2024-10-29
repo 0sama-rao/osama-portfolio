@@ -35,7 +35,7 @@ const About = ({ aboutData, name }) => {
             <p className="text-violet-800 w-fit rounded py-1 px-2 text-sm dark:text-violet-600 bg-violet-50 dark:bg-violet-900/10">
               {title}
             </p>
-            <p className="text-sm md:text-base my-2 text-gray-600 dark:text-gray-300">
+            <p className="text-sm md:text-base my-2 text-gray-600 dark:text-gray-500">
               {about}
             </p>
             <div className="flex items-center gap-4 md:mt-4">
