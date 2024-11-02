@@ -25,7 +25,7 @@ const About = ({ aboutData, name }) => {
             src={aboutImage}
           />
           <span className="font-medium font-sans">
-            {aboutImageCaption || "< I Build Stuff 🚀 />"}
+            {aboutImageCaption || "< I Build Dreams 🚀 />"}
           </span>
         </div>
 
@@ -49,16 +49,7 @@ const About = ({ aboutData, name }) => {
                   Resume
                 </a>
               )}
-              {callUrl.trim() && (
-                <a
-                  href={callUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-violet-600 flex items-center gap-1 hover:bg-violet-50 hover:dark:bg-violet-900/10 py-2 px-4 transition-colors rounded-md"
-                >
-                  Book a 1:1 call <BiLinkExternal />
-                </a>
-              )}
+            
             </div>
           </div>
         </div>

@@ -241,42 +241,10 @@
     }
   ],
   "projects": [
+
     {
-      "name": "Car Rent web Application",
-      "techstack": "Nextjs, reactjs, JavaScript, tailwind css",
-      "category": "Frontend",
-      "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1690294073/Screenshot_10_reo5jx.png",
-      "links": {
-        "code": "https://github.com/ImranYounas123/car_rent_app",
-        "video": "https://github.com/ImranYounas123/car_rent_app",
-        "visit": "https://github.com/ImranYounas123/car_rent_app"
-      }
-    },
-    {
-      "name": "Resume Generator App",
-      "techstack": "Reactjs, JavaScript, tailwind css",
-      "category": "Frontend",
-      "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1684321859/resuemeGen_efz7bh.png",
-      "links": {
-        "code": "https://github.com/ImranYounas123/car_rent_app",
-        "video": "https://github.com/ImranYounas123/car_rent_app",
-        "visit": "https://github.com/ImranYounas123/car_rent_app"
-      }
-    },
-    {
-      "name": "E-Shop Application",
-      "techstack": "ReactJs,Nodejs,ExpreesJS,MongoDB,MySQL,HTML,CSS,MUI",
-      "category": "Full Stack",
-      "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1684320450/Screenshot_1_rtzyri.png",
-      "links": {
-        "code": "https://github.com/ImranYounas123/MERN-E_commerce",
-        "video": "https://github.com/ImranYounas123/MERN-E_commerce",
-        "visit": "https://github.com/ImranYounas123/MERN-E_commerce"
-      }
-    },
-    {
-      "name": "burger Web Application",
-      "techstack": "ReactJs,Nodejs,ExpreesJS,MongoDB,MySQL,HTML,CSS,MUI",
+      "name": "ChatGpt Clone",
+      "techstack": "ReactJs,NextJS,Nodejs,ExpreesJS",
       "category": "Full Stack",
       "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1690371999/Screenshot_11_pvqz73.png",
       "links": {
@@ -286,35 +254,48 @@
       }
     },
     {
-      "name": "E-Madadar Application",
-      "techstack": "ReactJs,Nodejs,ExpreesJS,MongoDB,MySQL,HTML,CSS,MUI",
+      "name": "News Website Application",
+      "techstack": "Nodejs,ExpreesJS,MySQL,HTML,CSS,MUI",
       "category": "Full Stack",
-      "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1690372580/Screenshot_12_w1egsx.png",
+      "image": "https://res.cloudinary.com/dxauhkbm6/image/upload/v1730476155/newsweb_nuvdzh.jpg",
       "links": {
         "code": "https://github.com/ImranYounas123/MERN-E_commerce",
         "video": "https://github.com/ImranYounas123/MERN-E_commerce",
         "visit": "https://github.com/ImranYounas123/MERN-E_commerce"
       }
     },
+   
     {
-      "name": "File Inspection",
-      "techstack": "NestJs, Express js,MySql, Sequelize",
+      "name": "Excel Reader Script",
+      "techstack": "Python, Pandas, Tkinter, SQLSERVER",
       "category": "Backend",
+      "image": "https://res.cloudinary.com/dxauhkbm6/image/upload/v1730492433/readxlsxFiels_mnig89.jpg",
+      "links": {
+        "code": "https://github.com/0sama-rao/ImportDataToSql-SCRIPT-",
+        "video": "sds",
+        "visit": "dsd" 
+      }
+    },
+    
+    {
+      "name": "Whatsapp chatbot",
+      "techstack": "NodeJs, Express js,SQLSERVER",
+      "category": "Backend",
+      "image":"https://res.cloudinary.com/dxauhkbm6/image/upload/v1730493116/whatassp_dmymv1.jpg",
     
       "links": {
-        "code": "https://github.com/0sama-rao/fileInspection",
-        "video": "sds",
+        "code": "https://github.com/0sama-rao/WhatsappBoot-API",
         "visit": "dsd"
       }
     },
     {
-      "name": "Neuro Care Application",
-      "techstack": "Nodejs,Socket IO, Express js MongoDB MYSQL FHIR",
+      "name": "File Inspection",
+      "techstack": "NestJs, Express js,MySql, Sequelize",
       "category": "Backend",
-      "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1684318589/WhatsApp_Image_2023-05-17_at_3.14.17_PM_xojdn7.jpg",
+      "image":"https://res.cloudinary.com/dxauhkbm6/image/upload/v1730490538/fileinspection_ipvlg2.png",
+    
       "links": {
-        "code": "sdss",
-        "video": "sds",
+        "code": "https://github.com/0sama-rao/fileInspection",
         "visit": "dsd"
       }
     }
