@@ -73,7 +73,7 @@ const Hero = (mainData) => {
             </ScrollLink>
             <a
               className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-orange-600 hover:bg-orange-700 dark:bg-violet-700 hover:dark:bg-violet-800 transition-colors group text-white"
-              href="https://www.linkedin.com/in/imran-younas-he-him-2b9a90205/"
+              href="https://www.linkedin.com/in/muhammad-osama-rao/"
               target="_blank"
               rel="noopener noreferrer"
             >
