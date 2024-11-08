@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Muhammad Osama",
-    "shortDesc": "I specialize in creating user-friendly web applications that align with client needs, emphasizing detail, scalability, and performance.",
+    "shortDesc": "I'm specialize in creating user-friendly web applications that align with client needs, emphasizing detail, scalability, and performance.",
     "titles": [
       
       "Full Stack Development",
@@ -235,17 +235,7 @@
   ],
   "projects": [
 
-    {
-      "name": "ChatGpt Clone",
-      "techstack": "ReactJs,NextJS,Nodejs,ExpreesJS",
-      "category": "Full Stack",
-      "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1690371999/Screenshot_11_pvqz73.png",
-      "links": {
-        "code": "https://github.com/ImranYounas123/MERN-E_commerce",
-        "video": "https://github.com/ImranYounas123/MERN-E_commerce",
-        "visit": "https://github.com/ImranYounas123/MERN-E_commerce"
-      }
-    },
+  
     {
       "name": "News Website Application",
       "techstack": "Nodejs,ExpreesJS,MySQL,HTML,CSS,MUI",

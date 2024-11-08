@@ -5,7 +5,7 @@ import whatsappIcon from "../assets/images.jpg"; // Path to your WhatsApp icon i
 const WhatsAppIcon = () => {
   return (
     <a
-      href="https://wa.me/03362005886" 
+      href="https://wa.me/+4915218108392" 
       target="_blank"
       rel="noopener noreferrer"
       className="whatsapp-fixed"
